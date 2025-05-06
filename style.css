@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    background-color: #ff6a00;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.logo {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+main {
+    padding: 20px;
+}
+.subpages ul {
+    list-style-type: none;
+    padding: 0;
+}
+.subpages li {
+    margin: 10px 0;
+}
+.subpages a {
+    color: #ff6a00;
+    text-decoration: none;
+    font-weight: bold;
+}
+.subpages a:hover {
+    text-decoration: underline;
+}
